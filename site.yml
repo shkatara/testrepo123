@@ -1,0 +1,10 @@
+---
+- name: testing
+  hosts: all 
+  roles:
+    - myrole1
+    - myrole2
+    
+
+
+...
